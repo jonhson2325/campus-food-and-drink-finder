@@ -3,6 +3,8 @@
 #include <string>
 using namespace std;
 
+const int maxData = 100;
+
 struct Menu {
     int id;
     string nama;

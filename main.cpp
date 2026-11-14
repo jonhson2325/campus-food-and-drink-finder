@@ -8,6 +8,6 @@
 using namespace std;
 
 int main(){
-    Menu daftarMenu[100];
+    Menu daftarMenu[maxData];
 
 }
